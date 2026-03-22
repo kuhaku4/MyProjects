@@ -6,5 +6,5 @@ Designed and built a GUI-based UML class diagram designer in Java using object-o
 Blog Website: https://github.com/kuhaku4/421Lab/tree/Lab7  
 Built a real-time blogging web application using JavaScript, AngularJS, and MEAN-stack principles, implementing secure authentication and full CRUD functionality. Designed RESTful APIs and integrated MongoDB for efficient data management, while developing responsive user interfaces with modern web technologies. Deployed the application on AWS and utilized Git and Agile practices to deliver a scalable and maintainable solution.
 
-Deep learning Stock Price prediction with LSTM (PyTorch): https://github.com/kuhaku4/StockPrediction
+Deep learning Stock Price prediction with LSTM (PyTorch): https://github.com/kuhaku4/StockPrediction  
 Built an end-to-end stock price prediction system using LSTM neural networks in PyTorch, implementing data preprocessing, model training, and performance evaluation on real-world time series data. Applied machine learning and software engineering principles to create an efficient and scalable forecasting pipeline, improving prediction accuracy and model performance.
