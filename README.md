@@ -1,9 +1,10 @@
 My Programming Projects
 
 UML Class Designer: https://github.com/mucsci-students/2024sp-420-JavaB  
-This project was done in Java for a software development class for college as a group project.  I created a program that would allow you to create a UML class for databases with an interactable user interface as well as a CLI version.
-I used Java, JSON, Spring Boot, and GitHub, in an agile development setting.
+Designed and built a GUI-based UML class diagram designer in Java using object-oriented programming, data structures, and algorithms to create an efficient and scalable application. Collaborated in an Agile environment leveraging Git and CI/CD pipelines to rapidly develop and iterate on features. Applied software engineering principles, API design, and REST concepts, using JSON for compact data containment, contributing to a well-structured and maintainable codebase.
 
 Blog Website: https://github.com/kuhaku4/421Lab/tree/Lab7  
-This is a website I created for a web development class that used AWS, JavaScript, HTML, CSS, Angular, NodeJS, REST API, and MEAN technologies to create a blog website.
-The website was able to update in real-time, had user logins with secure passwords using salt and hash in MongoDB and user authentication using web tokens, and had an edit and delete function that was tied to the user that created the blog, which was hosted on AWS.
+Built a real-time blogging web application using JavaScript, AngularJS, and MEAN-stack principles, implementing secure authentication and full CRUD functionality. Designed RESTful APIs and integrated MongoDB for efficient data management, while developing responsive user interfaces with modern web technologies. Deployed the application on AWS and utilized Git and Agile practices to deliver a scalable and maintainable solution.
+
+Deep learning Stock Price prediction with LSTM (PyTorch): https://github.com/kuhaku4/StockPrediction
+Built an end-to-end stock price prediction system using LSTM neural networks in PyTorch, implementing data preprocessing, model training, and performance evaluation on real-world time series data. Applied machine learning and software engineering principles to create an efficient and scalable forecasting pipeline, improving prediction accuracy and model performance.
