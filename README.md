@@ -9,5 +9,5 @@ Built a real-time blogging web application using JavaScript, AngularJS, and MEAN
 Deep learning Stock Price prediction with LSTM (PyTorch): https://github.com/kuhaku4/StockPrediction  
 Built an end-to-end stock price prediction system using LSTM neural networks in PyTorch, implementing data preprocessing, model training, and performance evaluation on real-world time series data. Applied machine learning and software engineering principles to create an efficient and scalable forecasting pipeline, improving prediction accuracy and model performance.
 
-Python Word Guesser: https://github.com/kuhaku4/WordGuesserPy
+Python Word Guesser: https://github.com/kuhaku4/WordGuesserPy  
 A word guessing game built in python that uses an imported dictionairy to allow commandline inputs that guessing the word.
