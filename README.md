@@ -11,3 +11,6 @@ Built an end-to-end stock price prediction system using LSTM neural networks in 
 
 Python Word Guesser: https://github.com/kuhaku4/WordGuesserPy  
 A word guessing game built in python that uses an imported dictionairy to allow commandline inputs that guessing the word.
+
+Python AI TicTacToe: https://github.com/kuhaku4/TicTacToeAI  
+A Tic-Tac-Toe game with a GUI that allows you to play an AI or a second in person player.
